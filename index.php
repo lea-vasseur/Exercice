@@ -6,6 +6,9 @@ if(file_exists('config.php')){
 	echo 'veuillez configurer BDD';
 }
 
+include 'header.php';
+echo "Hello World";
+include 'footer.php';
 
 
 ?>
