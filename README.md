@@ -1,6 +1,10 @@
 # Exercice
 Exercice de vendredi. A faire tranquillement. L'exo est large, mais vous faites ce que vous pouvez, pas de pression comme les Portugais à l'heure où j'écris ce README :).
 
+## Instructions
+- Cloner d'abord dépôt
+- Copier fichier config.php.dist vers config.php et configurer accès à DB
+
 ## TODO
 
 - Il faudrait commencer par faire un fork du dépôt
